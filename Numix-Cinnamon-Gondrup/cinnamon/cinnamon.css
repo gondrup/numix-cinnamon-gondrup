@@ -440,6 +440,7 @@ StScrollBar StButton#hhandle:active {
   font-size: 12px;
   width: 32px;
   height: 26px;
+  background-color: rgba(32, 32, 32, 1);
 }
 
 .panel-bottom:highlight {
